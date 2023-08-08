@@ -1,1 +1,17 @@
-test
+create a repo
+
+gerekli gitignorelar eklendi
+
+clone git <url>
+
+istenen filelar sürüklenerek eklendi
+
+git status    eklendi mi diye kontrol ettik
+
+buluta yüklemek istediğimiz file ları  git add . veya git add filePath ile ekledik
+
+ekledğimiz belgeleri  git commit -m "commit mesajı"  ekledik
+
+git push ile githuba yolladık
+
+git pull
